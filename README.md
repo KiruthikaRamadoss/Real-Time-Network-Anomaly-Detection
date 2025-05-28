@@ -24,14 +24,14 @@ This repository contains code and resources for detecting anomalies in synthetic
 This project was presented at:
 - **TXST 1st Data and AI Day – Student Poster Showcase (2025)**
 
-[📄 View Poster](Poster%20-%20Kiruthika_Ramadoss.pptx)
+[View Poster](Poster%20-%20Kiruthika_Ramadoss.pptx)
 
 ## Dataset
 
 - **File**: `synthetic_network_traffic.csv`
 - **Description**: A labeled synthetic dataset simulating normal and anomalous network traffic behavior.
 
-[📁 Download Dataset](synthetic_network_traffic.csv)
+[Download Dataset (Google Drive)](https://drive.google.com/file/d/1iSv1C7xmcWMhfMHxbd48Hc_-lJZIUgzn/view?usp=sharing)
 
 ## Notebook
 
@@ -41,7 +41,7 @@ The notebook includes the complete ML pipeline:
 - Model training and evaluation
 - Visualizations and metrics reporting
 
-[📓 View Jupyter Notebook](Anomaly_Detection.ipynb)
+[View Jupyter Notebook](Anomaly_Detection.ipynb)
 
 ## How to Run
 

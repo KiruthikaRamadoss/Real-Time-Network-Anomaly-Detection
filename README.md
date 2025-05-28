@@ -78,5 +78,7 @@ source env/bin/activate  # or env\Scripts\activate on Windows
 
    For any inquiries or collaboration opportunities:
 
-- **Email:** [k_r549@txstate.edu](mailto:k_r549@txstate.edu)
-- **LinkedIn:** [Kiruthika Ramadoss](https://www.linkedin.com/in/kiruthikaramadoss/)
+- [LinkedIn](https://www.linkedin.com/in/kiruthikaramadoss/)
+- [GitHub](https://github.com/KiruthikaRamadoss)  
+- [Email](mailto:k_r549@txstate.edu)
+

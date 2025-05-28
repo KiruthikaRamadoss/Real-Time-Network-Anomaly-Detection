@@ -76,7 +76,7 @@ source env/bin/activate  # or env\Scripts\activate on Windows
 
    ## Contact
 
-   For any inquiries or collaboration opportunities:
+For inquiries, feedback, or professional connections:
 
 - [LinkedIn](https://www.linkedin.com/in/kiruthikaramadoss/)
 - [GitHub](https://github.com/KiruthikaRamadoss)  

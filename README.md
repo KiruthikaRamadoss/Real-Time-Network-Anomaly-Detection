@@ -63,7 +63,7 @@ The notebook includes the complete ML pipeline:
    git clone https://github.com/KiruthikaRamadoss/Real-Time-Network-Anomaly-Detection.git
    cd Real-Time-Network-Anomaly-Detection
    
-2. (Optional) Create and activate a virtual environment:
+2. Create and activate a virtual environment (Optional):
 python -m venv env
 source env/bin/activate  # or env\Scripts\activate on Windows
 

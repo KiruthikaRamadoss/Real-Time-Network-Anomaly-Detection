@@ -24,7 +24,7 @@ This repository contains code and resources for detecting anomalies in synthetic
 This project was presented at:
 - **TXST 1st Data and AI Day – Student Poster Showcase (2025)**
 
-[View Poster](Poster-Kiruthika_Ramadoss.pdf)
+[View Poster](Poster%20-%20Kiruthika_Ramadoss.pdf)
 
 ## Dataset
 
